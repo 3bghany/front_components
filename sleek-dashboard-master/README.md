@@ -5,9 +5,6 @@
 - [Development](#development)
 - [File Structure](#file-structure)
 - [Browser Support](#browser-support)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions)
-- [Licensing](#licensing)
 
 ## Demo
 
@@ -15,7 +12,6 @@
 |---|---|---|---|
 | [![Ecommerce page](src/assets/img/github/ecommerce.png)](https://sleek.tafcoder.com/)  | [![Analytics page](src/assets/img/github/analytics.png)](https://sleek.tafcoder.com/analytics.html) | [![Chart Widgets](src/assets/img/github/chart-widgets.png)](https://sleek.tafcoder.com/chart-widget.html) | [![General Widgets](src/assets/img/github/general-widgets.png)](https://sleek.tafcoder.com/general-widget.html)
 
-[View More](https://sleek.tafcoder.com/).
 
 
 ## Npm Install
