@@ -14,7 +14,7 @@ very usefull front_end design components
 
 | Ecommerce  | Analytics  | Chart Widgets  | General Widgets  |
 |---|---|---|---|
-| [![Ecommerce page](src/assets/img/github/ecommerce.png)](https://sleek.tafcoder.com/)  | [![Analytics page](src/assets/img/github/analytics.png)](https://sleek.tafcoder.com/analytics.html) | [![Chart Widgets](src/assets/img/github/chart-widgets.png)](https://sleek.tafcoder.com/chart-widget.html) | [![General Widgets](src/assets/img/github/general-widgets.png)](https://sleek.tafcoder.com/general-widget.html)
+| [![Ecommerce page](sleek-dashboard-master/src/assets/img/github/ecommerce.png)](https://sleek.tafcoder.com/)  | [![Analytics page](sleek-dashboard-master/src/assets/img/github/analytics.png)](https://sleek.tafcoder.com/analytics.html) | [![Chart Widgets](sleek-dashboard-master/src/assets/img/github/chart-widgets.png)](https://sleek.tafcoder.com/chart-widget.html) | [![General Widgets](sleek-dashboard-master/src/assets/img/github/general-widgets.png)](https://sleek.tafcoder.com/general-widget.html)
 
 
 
@@ -91,4 +91,4 @@ sleek-dashboard/
 
 At present, we officially aim to support the following browsers:
 
-<img src="src/assets/img/github/chrome.png" width="64" height="64"> <img src="src/assets/img/github/firefox.png" width="64" height="64"> <img src="src/assets/img/github/edge.png" width="64" height="64"> <img src="src/assets/img/github/safari.png" width="64" height="64"> <img src="src/assets/img/github/opera.png" width="64" height="64">
+<img src="sleek-dashboard-master/src/assets/img/github/chrome.png" width="64" height="64"> <img src="sleek-dashboard-master/src/assets/img/github/firefox.png" width="64" height="64"> <img src="sleek-dashboard-master/src/assets/img/github/edge.png" width="64" height="64"> <img src="sleek-dashboard-master/src/assets/img/github/safari.png" width="64" height="64"> <img src="sleek-dashboard-master/src/assets/img/github/opera.png" width="64" height="64">
