@@ -92,17 +92,3 @@ sleek-dashboard/
 At present, we officially aim to support the following browsers:
 
 <img src="src/assets/img/github/chrome.png" width="64" height="64"> <img src="src/assets/img/github/firefox.png" width="64" height="64"> <img src="src/assets/img/github/edge.png" width="64" height="64"> <img src="src/assets/img/github/safari.png" width="64" height="64"> <img src="src/assets/img/github/opera.png" width="64" height="64">
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Sleek Dashboard. Please Search [existing issues](https://github.com/tafcoder/sleek-dashboard/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/tafcoder/sleek-dashboard/issues)
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](mailto:hello@tafcoder.com) instead of opening an issue.
-
-## Licensing
-
-- Copyright 2018 TAF Coder (https://sleek.tafcoder.com/)
-- Licensed under MIT (https://github.com/tafcoder/sleek-dashboard/blob/master/LICENSE.md)
